@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Will Rudolph Portfolio
+title: Crafts and Arts
 ---
 
-## Work in Progress
+## Problems with Alphabetical Orderings
