@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 author: Will Rudolph
-title: Digital Portfolio
+title: Portfolio
 email: "wrudolph81@gmail.com"
+instagram: "@0_0wrudolph"
 description: >- # this means to ignore newlines until "baseurl:"
   A small website to host documentation of various projects and creations that I've made over the years.
 #baseurl: "/portfolio"
@@ -23,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #instagram_username: 0_0wrudolph
 #github_username:  wrudolph81
 
-repository: "portfolio"
+repository: "Portfolio"
 
 # Build settings
 plugins:
