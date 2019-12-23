@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootstrap 4 Github Pages
-email: ""
+title: Will Rudolph Digital Portfolio
+email: "wrudolph81@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  A Bootstrap 4 start up site for Jekyll and Github Pages. Hopefully evolving into a working personal website.
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "http://wrudolph81.github.io"
 #twitter_username: jekyllrb
-#github_username:  jekyll
+#github_username:  wrudolph81
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+repository: "wrudolph81"
 
 # Build settings
 plugins:
